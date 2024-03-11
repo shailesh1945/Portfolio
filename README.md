@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-<!-- ### Weblink: [Live Website](https://rishavchanda.netlify.app) -->
+
 ## Some Images:
 <img width="450px;" src="https://github.com/shailesh1945/Portfolio/assets/106305592/9b5fd131-d247-4d87-97fb-8a4f0f125415"/>
 <img width="450px;" src="https://github.com/shailesh1945/Portfolio/assets/106305592/97927af5-9867-4502-a67c-5e7593f11bc3"/>
